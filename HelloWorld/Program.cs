@@ -13,6 +13,7 @@ namespace HelloWorld
             Console.Write("Hello World");
             Console.Read();
 			//por aquí pasó memo
+            //Oscar también
         }
     }
 }
