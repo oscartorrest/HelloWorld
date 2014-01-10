@@ -10,7 +10,7 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.Write("Hello World");
+            Console.Write("Goodbye World");
             Console.Read();
 			//por aquí pasó memo
             //Oscar también
